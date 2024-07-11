@@ -34,10 +34,11 @@ education:
   date: August 2024
 
 - experience:
-    name: Florida Atlantic University Environmental Geophysics Lab
+    name: FAU Environmental Geophysics Lab
     logo: assets/images/badges/fau.png
     position: Research Assistant
-    date: January 2023 - June 2024
+    date: Jan 2023 - June 2024
+    
 # experience:
 # - name: Peking University
 #   logo: assets/images/badges/PKU_red.png

@@ -5,7 +5,6 @@ selected:       false
 pub:            "Journal Title"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-

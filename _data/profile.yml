@@ -16,7 +16,7 @@ cv_link: "link to cv"
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Ph.D student in Geophysics & Planetary Sciences at Purdue University EAPS
+  Ph.D student in Geophysics & Planetary Sciences at Purdue University EAPS <br>
   Interested in near-surface geophysics on the Earth, Moon, and Mars
 
 show_portrait: true

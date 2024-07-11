@@ -1,4 +1,4 @@
-primary_name: "Samuel B. Harris"
+lprimary_name: "Samuel B. Harris"
 secondary_name: ""
 navbar_name: "Samuel B. Harris"
 
@@ -41,10 +41,8 @@ education:
 
 
 awards:
-- name: Award Name 2
+- name: Fellowship
   date: 2024
-- name: Award Name 1 
-  date: 2021
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!

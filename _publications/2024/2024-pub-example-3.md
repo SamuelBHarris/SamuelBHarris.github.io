@@ -17,5 +17,4 @@ authors:
   - Author... 
 links:
   Link: #link
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

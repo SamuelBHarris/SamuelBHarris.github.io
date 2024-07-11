@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Samuel B. Harris"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Peking University" class="inline-badge"/></span> B.S., Peking University (2021)'
+  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Purdue University" class="inline-badge"/></span> Current Grad Student, Purdue University'
 
 email: "your@email.com"
 gscholar: TBD
@@ -51,5 +51,3 @@ awards:
 
 # Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
 # if you keep the link to the template so that more people can benefit from it. Thanks!
-footer_text: >-
-  <a href="https://github.com/luost26/academic-homepage" target="_blank"><i class="fas fa-pencil-ruler"></i> academic-homepage</a>

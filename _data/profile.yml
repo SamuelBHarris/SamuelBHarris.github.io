@@ -26,15 +26,15 @@ portrait_caption: >-
   
 
 education:
-- name: Florida Atlantic University
-  logo: assets/images/badges/fau.png
-  position: B.S. Geosciences (Geology Concentration)
-  date: August 2024
-
 - name: Purdue University
   logo: assets/images/badges/purdue.png
   position: TBD
   date: At Some Point
+  
+- name: Florida Atlantic University
+  logo: assets/images/badges/fau.png
+  position: B.S. Geosciences (Geology Concentration)
+  date: August 2024
 
 # experience:
 # - name: Peking University

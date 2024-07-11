@@ -6,7 +6,7 @@ positions:
   - '<span class="no-break"><img src="assets/images/badges/purdue.png" alt="Purdue University" class="inline-badge"/></span> Grad Student, Purdue University'
 
 email: "your@email.com"
-gscholar: TBD
+#gscholar: TBD
 linkedin: www.linkedin.com/in/samuel-harris-0492a8261
 # wechat_qrcode: assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -15,9 +15,7 @@ linkedin: www.linkedin.com/in/samuel-harris-0492a8261
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+  Surely I will come up with a bio soon (July 2024)
 
 show_portrait: true
 portrait_url: assets/images/photos/me.png

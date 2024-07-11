@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Samuel B. Harris"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/PKU_red.png" alt="Purdue University" class="inline-badge"/></span> Current Grad Student, Purdue University'
+  - '<span class="no-break"><img src="assets/images/badges/purdue.png" alt="Purdue University" class="inline-badge"/></span> Grad Student, Purdue University'
 
 email: "your@email.com"
 gscholar: TBD
@@ -21,18 +21,18 @@ short_bio: >-
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 
 show_portrait: true
-portrait_url: assets/images/photos/portrait.jpg
+portrait_url: assets/images/photos/me.png
 portrait_caption: >-
   
 
 education:
 - name: Florida Atlantic University
-  logo: 
+  logo: assets/images/badges/fau.png
   position: B.S. Geosciences (Geology Concentration)
   date: August 2024
 
 - name: Purdue University
-  logo:
+  logo: assets/images/badges/purdue.png
   position: TBD
   date: At Some Point
 

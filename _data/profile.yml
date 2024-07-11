@@ -33,11 +33,11 @@ education:
   position: B.S. Geosciences (Geology Concentration)
   date: August 2024
 
-- experience:
-    name: FAU Environmental Geophysics Lab
-    logo: assets/images/badges/fau.png
-    position: Research Assistant
-    date: Jan 2023 - June 2024
+experience:
+- name: FAU Environmental Geophysics Lab
+  logo: assets/images/badges/fau.png
+  position: Research Assistant
+  date: Jan 2023 - June 2024
     
 # experience:
 # - name: Peking University

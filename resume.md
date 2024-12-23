@@ -3,9 +3,9 @@ layout: resume
 menuorder: 2
 menutitle: CV
 ---
-<a href="assets/cv/currentcv.pdf" download="HarrisSamuel_CV">Download CV</a>
+<a href="/assets/cv/currentcv.pdf" download="SamuelBHarris_CV">Download CV</a>
 
-<embed src="assets/cv/currentcv.pdf" width="100%" height="500" type="application/pdf">
+<embed src="/assets/cv/currentcv.pdf" width="100%" height="500" />
 
 <!-- ### Footer
 

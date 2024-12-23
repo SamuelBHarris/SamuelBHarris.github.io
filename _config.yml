@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Samuel B. Harris
   avatar: me.png
-  bio: Ph.D Student <br> Planetary Science <br> Purdue University <br> <a href= "mailto:harr1273@purdue.edu">harr1273@purdue.edu</a>
+  bio: Ph.D Student <br> Planetary Science <br> Purdue University <br> <a href= "mailto:harr1273@purdue.edu"><b>harr1273@purdue.edu</b></a>
   email: "harr1273@purdue.edu"
   # Do not include the @ symbol in your Twitter username
   twitter: #username
